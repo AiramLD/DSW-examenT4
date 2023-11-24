@@ -1,0 +1,16 @@
+{
+    "name": "airam/films",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Airam\\Films\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AiramLD",
+            "email": "airamluisdiaz629@gmail.com"
+        }
+    ],
+    "require": {}
+}
